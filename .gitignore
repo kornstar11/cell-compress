@@ -1,9 +1,4 @@
 .vscode
-
-# packaged artifacts
-/build/output/
-/build/duskrise-syslog-emitter
-/output
 # rust
 /target
 Cargo.lock
